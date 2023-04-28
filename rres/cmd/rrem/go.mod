@@ -15,5 +15,5 @@ require (
 	github.com/klauspost/compress v1.16.0 // indirect
 	github.com/moutend/go-wav v0.0.0-20170820031854-56127fbbb7ba
 	github.com/ulikunitz/xz v0.5.11 // indirect
-	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d
+	golang.org/x/image v0.5.0
 )
