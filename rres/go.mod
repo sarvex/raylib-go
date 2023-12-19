@@ -13,5 +13,5 @@ require (
 	github.com/pierrec/lz4 v2.6.1+incompatible
 	github.com/rootlch/encrypt v0.0.0-20120717064446-58e7f47a860b
 	github.com/ulikunitz/xz v0.5.11
-	golang.org/x/crypto v0.7.0
+	golang.org/x/crypto v0.17.0
 )
